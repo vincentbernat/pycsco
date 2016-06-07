@@ -8,7 +8,6 @@ pycsco.egg-info/dependency_links.txt
 pycsco.egg-info/requires.txt
 pycsco.egg-info/top_level.txt
 pycsco/lib/__init__.py
-pycsco/lib/ipaddr.py
 pycsco/nxos/__init__.py
 pycsco/nxos/device.py
 pycsco/nxos/error.py

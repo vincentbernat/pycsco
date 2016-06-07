@@ -1,5 +1,5 @@
 from pycsco.nxos.error import InputError
-from pycsco.lib import ipaddr
+import ipaddr
 
 try:
     import xmltodict
